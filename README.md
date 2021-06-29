@@ -1,15 +1,19 @@
-# Api_Node_authentication
-💻 Getting started
-Clone this project and access folder
+<h3 align="center">
+  Simple user validation project with email sending using mongo
+</h3>
+</br>
 
+## 💻 Getting started
+**Clone this project and access folder**
+
+```bash
 $ git clone https://github.com/Diego-sdd/-Api_Node_authentication
-Follow the steps below
+```
 
+**Follow the steps below**
+
+```bash
 # Install the dependencies
 $ npm install
 
-# Make a copy of '.env.example' to '.env' and set with YOUR environment variables.
-$ cp .env.example .env
-
-# Run this command to init
-$ yarn start
+$ node src/index.js
